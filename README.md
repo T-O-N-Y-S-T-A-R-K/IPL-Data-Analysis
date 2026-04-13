@@ -30,11 +30,3 @@ This project performs **data analysis and visualization** on Indian Premier Leag
   - Feature importance and dimensionality reduction
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/jenis-das/ipl-analysis.git
-cd ipl-analysis
